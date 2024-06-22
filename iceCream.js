@@ -8,7 +8,7 @@ myIceCreamButton.onclick = secondFav;
 function swapText() {
     let x = document.getElementById("textSwap");
     if (x.innerHTML === "Hiya Pal!") {
-        x.innerHTML = "Swapped You!";
+        x.innerHTML = "Ya Swapped!";
     } else {
         x.innerHTML = "Hiya Pal!";
     }
